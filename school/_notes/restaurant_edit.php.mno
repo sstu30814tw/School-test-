@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:foodid;datatype:int,name:foodname;datatype:string,name:foodprice;datatype:int,name:fooddate;datatype:date,name:foodimf;datatype:blob" />
+</info>
